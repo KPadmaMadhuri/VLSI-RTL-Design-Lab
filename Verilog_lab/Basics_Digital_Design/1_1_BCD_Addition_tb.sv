@@ -1,3 +1,5 @@
+//BCD ADDITION WITH CORRECTION LOGIC TESTBENCH BASIC
+
 module bcd_addition_tb();
 
 reg [3:0] a,b;

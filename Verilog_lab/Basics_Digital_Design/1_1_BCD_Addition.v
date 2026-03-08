@@ -1,3 +1,6 @@
+//BCD ADDITION WITH CORRECTION LOGIC
+
+
 module fa (
     input x,y,z, output w, C
 );

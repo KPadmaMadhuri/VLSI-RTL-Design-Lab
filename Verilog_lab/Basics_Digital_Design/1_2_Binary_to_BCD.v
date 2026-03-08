@@ -1,3 +1,5 @@
+//vERILOG MODULE TO CONVERT BINARY NUMBER TO BCD USING DOUBLE DABBLE ALGORITHM (SHIFT AND ADD THREE)
+
 module bin_to_bcd #(parameter BIN_WIDTH = 8, parameter BCD_WIDTH = 12) (
     input  [BIN_WIDTH-1:0] binary,
     output reg [BCD_WIDTH-1:0] bcd
