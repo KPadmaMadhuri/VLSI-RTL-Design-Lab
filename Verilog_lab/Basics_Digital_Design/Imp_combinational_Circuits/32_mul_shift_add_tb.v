@@ -1,3 +1,5 @@
+//Design a Binary Multiplier using shift and add algorithm
+
 module mul_shift_add_tb;
 
 parameter WIDTH=4;
